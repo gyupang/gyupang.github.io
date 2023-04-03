@@ -13,7 +13,7 @@
 
 
 ## Features
-Github.io를 이용하여 개인적인 포트폴리오와 웹사이트를 만들었습니다.
+Github.io를 이용하여 개인적인 포트폴리오와 웹사이트를 만들었습니다.<br>
 포트폴리오 페이지와 블로그 기능을 사용할수 있습니다.
 
 ### [Portfolio Homepage](https://gyupang.github.io/projects/)
