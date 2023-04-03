@@ -19,10 +19,10 @@ Some of these features are optional and can be turned on or off in the `_config.
 ### [Portfolio Homepage](https://gyupang.github.io/)
 
 Portfolio page giving an overview of your research.
-
+<!-- 
 ### [Presentations List]()
 
-A optional list of your presentations auto-generated for a data file.
+A optional list of your presentations auto-generated for a data file. -->
 
 ### [Blog]()
 
