@@ -8,25 +8,25 @@
 
 ![home](_images/main.png)
 
-Welcome!
+환영합니다!
 
 
 
 ## Features
+Github.io를 이용하여 개인적인 포트폴리오와 웹사이트를 만들었습니다.
+포트폴리오 페이지와 블로그 기능을 사용할수 있습니다.
 
-Some of these features are optional and can be turned on or off in the `_config.yml` file.
+### [Portfolio Homepage](https://gyupang.github.io/projects/)
 
-### [Portfolio Homepage](https://gyupang.github.io/)
-
-Portfolio page giving an overview of your research.
+포트폴리오 페이지
 <!-- 
 ### [Presentations List]()
 
 A optional list of your presentations auto-generated for a data file. -->
 
-### [Blog]()
+### [Blog](https://gyupang.github.io/blog/)
 
-An optional blog for any posts you want to publish.
+블로그
 
 
 <!-- ## Licence

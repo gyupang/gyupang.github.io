@@ -8,4 +8,4 @@
 
 - name: JAVA
   percentage: 30
-  color: secondary
+  color: primary
