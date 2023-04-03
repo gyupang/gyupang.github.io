@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : gyupang.github.io
 description         : >-
-                        
+                      .
                       개발자를 꿈꾸며 국비지원 교육과정에 참여 중입니다.
                       깃허브 블로그를 통해 제작하는 포트폴리오입니다.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -31,7 +31,7 @@ author:
 # dribbble          : your_username
   email             : 4567dx@gmail.com
 # facebook          : your_username
-  github            : https://github.com/gyupang
+  github            : gyupang
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
