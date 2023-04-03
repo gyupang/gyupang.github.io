@@ -6,7 +6,7 @@
 
 ---
 
-![home](_images/main.png)
+![home](/images/main.png)
 
 환영합니다!
 
