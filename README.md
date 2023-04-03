@@ -6,7 +6,7 @@
 
 ---
 
-![home](_images\main.png)
+![home](_images/main.png)
 
 Welcome!
 
